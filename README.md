@@ -1,1 +1,1 @@
-# Glowing-Dot-Animation
+# CSS-Animation
